@@ -7,5 +7,5 @@ currently i have used how push the data by using the ssh first i have created th
 then going the github in the github go to the setting and ssh -> new ssh key -> come to repo and copy ssh key
 -> then check the current remote -v -> then chnage the remote url -> cmd = git remote set-url (past copied ssh url)
 
-
+content is visible in github
 
