@@ -9,3 +9,5 @@ also we doing bash scripting to automatically install serivce in nginx apache se
 newly create the volume and attached the extend to the server and volume shareing for one account to another account.
 turoshtooing case :
 in case anu website is down to check all flow website sometime 500, 502 error is coming that time chcek all flow of infra.
+
+aslo we have manage cloudtrail log and and using life cycle policy to daily sync log form s3 bucket. also cost optimzation releated task we have handled. 
